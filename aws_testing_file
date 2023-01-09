@@ -2,3 +2,17 @@
 
 
 Authorization: Basic ZGpjOTh1M2ppZWRtaTI4M2V1OTI4OmFiY2RlZjAxMjM0NTY3ODkw
+
+
+ {
+        "ServiceSpecificCredential":
+        {
+            "CreateDate": "2019-10-09T16:12:04Z",
+            "ServiceName": "cassandra.amazonaws.com",
+            "ServiceUserName": "alice-at-111122223333",
+            "ServicePassword": "wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY",
+            "ServiceSpecificCredentialId": "ACCAYFI33SINPGJEBYESF",
+            "UserName": "alice",
+            "Status": "Active"
+        }
+    }
